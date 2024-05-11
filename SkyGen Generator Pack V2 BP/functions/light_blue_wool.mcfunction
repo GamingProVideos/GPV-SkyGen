@@ -1,0 +1,1 @@
+setblock ~ ~1 ~ light_blue_wool

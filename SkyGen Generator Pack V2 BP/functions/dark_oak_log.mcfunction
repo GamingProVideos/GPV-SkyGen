@@ -1,0 +1,1 @@
+setblock ~ ~1 ~ dark_oak_log

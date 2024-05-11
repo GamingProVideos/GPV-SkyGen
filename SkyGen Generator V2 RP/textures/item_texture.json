@@ -1,0 +1,90 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.items",
+  "texture_data": {
+		"bedrock_sword": {
+			"textures": "textures/items/bedrock_sword"
+		},
+    "bedrock_axe": {
+      "textures": "textures/items/bedrock_axe"
+    },
+    "bedrock_template": {
+      "textures": "textures/items/bedrock_template"
+    },
+    "bedrock_hoe": {
+			"textures": "textures/items/bedrock_hoe"
+		},
+    "bedrock_pickaxe": {
+      "textures": "textures/items/bedrock_pickaxe"
+    },
+    "bedrock_shovel": {
+      "textures": "textures/items/bedrock_shovel"
+    },
+    "amethyst_sword": {
+			"textures": "textures/items/amethyst_sword"
+		},
+    "blue_sword": {
+      "textures": "textures/items/blue_sword"
+    },
+    "bone_sword": {
+      "textures": "textures/items/bone_sword"
+    },
+    "coal_sword": {
+      "textures": "textures/items/coal_sword"
+    },
+    "copper_sword": {
+      "textures": "textures/items/copper_sword"
+    },
+    "emerald_sword": {
+      "textures": "textures/items/emerald_sword"
+    },
+    "glowstone_sword": {
+			"textures": "textures/items/glowstone_sword"
+		},
+    "green_sword": {
+      "textures": "textures/items/green_sword"
+    },
+    "jade_sword": {
+      "textures": "textures/items/jade_sword"
+    },
+    "lapis_sword": {
+			"textures": "textures/items/lapis_sword"
+		},
+    "obsidian_sword": {
+      "textures": "textures/items/obsidian_sword"
+    },
+    "paper_sword": {
+      "textures": "textures/items/paper_sword"
+    },
+    "quartz_sword": {
+      "textures": "textures/items/quartz_sword"
+    },
+    "redstone_sword": {
+      "textures": "textures/items/redstone_sword"
+    },
+    "red_sword": {
+      "textures": "textures/items/red_sword"
+    },
+    "ruby_sword": {
+      "textures": "textures/items/ruby_sword"
+    },
+    "sapphire_sword": {
+      "textures": "textures/items/sapphire_sword"
+    },
+    "steel_sword": {
+      "textures": "textures/items/steel_sword"
+    },
+    "titanium_sword": {
+      "textures": "textures/items/titanium_sword"
+    },
+    "topaz_sword": {
+      "textures": "textures/items/topaz_sword"
+    },
+    "tungsten_sword": {
+      "textures": "textures/items/tungsten_sword"
+    },
+    "green_diamond": {
+      "textures": "textures/items/green_diamond"
+    }
+  }
+}

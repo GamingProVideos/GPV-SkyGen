@@ -1,0 +1,1 @@
+setblock ~ ~1 ~ nether_wart_block

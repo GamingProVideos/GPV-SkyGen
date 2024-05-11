@@ -1,0 +1,40 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "The only generator pack you will ever need. by GPV Company",
+    "name": "Ultimate SkyGen Generator Pack V2",
+    "uuid": "62f674c5-7030-4a0d-91d0-2b054261e69a",
+    "version": [
+      2,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      17,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "The only generator pack you will ever need. by GPV Company",
+      "type": "data",
+      "uuid": "2507e013-0b1f-4ac0-910c-fced05d32736",
+      "version": [
+        2,
+        0,
+        0
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "7014d43b-c95f-450c-80e7-632cf5966f08",
+      "version": [
+        2,
+        0,
+        0
+      ]
+    }
+  ]
+}

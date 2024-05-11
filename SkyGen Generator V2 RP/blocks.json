@@ -1,0 +1,304 @@
+{
+  "gpv:stone_genv4": {
+    "textures": "gpv_stone_genv4",
+    "sound": "metal"
+  },
+  "gpv:coal_genv4": {
+    "textures": "gpv_stone_genv4",
+    "sound": "metal"
+  },
+  "gpv:ironore_genv4": {
+    "textures": "gpv_stone_genv4",
+    "sound": "metal"
+  },
+  "gpv:sand_genv4": {
+    "textures": "gpv_stone_genv4",
+    "sound": "metal"
+  },
+  "gpv:goldore_genv4": {
+    "textures": "gpv_stone_genv4",
+    "sound": "metal"
+  },
+  "gpv:redstoneore_genv4": {
+    "textures": "gpv_stone_genv4",
+    "sound": "metal"
+  },
+  "gpv:diamondore_genv4": {
+    "textures": "gpv_stone_genv4",
+    "sound": "metal"
+  },
+  "gpv:quartzore_genv4": {
+    "textures": "gpv_stone_genv4",
+    "sound": "metal"
+  },
+  "gpv:lapisore_genv4": {
+    "textures": "gpv_stone_genv4",
+    "sound": "metal"
+  },
+  "gpv:copperore_genv4": {
+    "textures": "gpv_stone_genv4",
+    "sound": "metal"
+  },
+  "gpv:emeraldore_genv4": {
+    "textures": "gpv_stone_genv4",
+    "sound": "metal"
+  },
+  "gpv:gravel_genv4": {
+    "textures": "gpv_stone_genv4",
+    "sound": "metal"
+  },
+  "gpv:darkprismarine_genv4": {
+    "textures": "gpv_stone_genv4",
+    "sound": "metal"
+  },
+  "gpv:concrete_blackgenv4": {
+    "textures": "gpv_stone_genv4",
+    "sound": "metal"
+  },
+"gpv:concrete_bluegenv4": {
+    "textures": "gpv_stone_genv4",
+    "sound": "metal"
+  },
+"gpv:concrete_browngenv4": {
+    "textures": "gpv_stone_genv4",
+    "sound": "metal"
+  },
+"gpv:concrete_cyangenv4": {
+    "textures": "gpv_stone_genv4",
+    "sound": "metal"
+  },
+"gpv:concrete_graygenv4": {
+    "textures": "gpv_stone_genv4",
+    "sound": "metal"
+  },
+"gpv:concrete_greengenv4": {
+    "textures": "gpv_stone_genv4",
+    "sound": "metal"
+  },
+"gpv:concrete_light_bluegenv4": {
+    "textures": "gpv_stone_genv4",
+    "sound": "metal"
+  },
+"gpv:concrete_limegenv4": {
+    "textures": "gpv_stone_genv4",
+    "sound": "metal"
+  },
+"gpv:concrete_magentagenv4": {
+    "textures": "gpv_stone_genv4",
+    "sound": "metal"
+  },
+"gpv:concrete_orangegenv4": {
+    "textures": "gpv_stone_genv4",
+    "sound": "metal"
+  },
+"gpv:concrete_pinkgenv4": {
+    "textures": "gpv_stone_genv4",
+    "sound": "metal"
+  },
+  "gpv:concrete_whitegenv4": {
+    "textures": "gpv_stone_genv4",
+    "sound": "metal"
+  },
+  "gpv:concrete_redgenv4": {
+    "textures": "gpv_stone_genv4",
+    "sound": "metal"
+  },
+  "gpv:concrete_yellowgenv4": {
+    "textures": "gpv_stone_genv4",
+    "sound": "metal"
+  },
+  "gpv:concrete_purplegenv4": {
+    "textures": "gpv_stone_genv4",
+    "sound": "metal"
+  },
+  "gpv:concrete_light_graygenv4": {
+    "textures": "gpv_stone_genv4",
+    "sound": "metal"
+  },
+"gpv:crying_obsidiangenv4": {
+    "textures": "gpv_stone_genv4",
+    "sound": "metal"
+  },
+"gpv:obsidiangenv4": {
+    "textures": "gpv_stone_genv4",
+    "sound": "metal"
+  },
+"gpv:dirtgenv4": {
+    "textures": "gpv_stone_genv4",
+    "sound": "metal"
+  },
+"gpv:end_stonegenv4": {
+    "textures": "gpv_stone_genv4",
+    "sound": "metal"
+  },
+"gpv:bookshelfgenv4": {
+    "textures": "gpv_stone_genv4",
+    "sound": "metal"
+  },
+  "gpv:granitegenv4": {
+    "textures": "gpv_stone_genv4",
+    "sound": "metal"
+  },
+"gpv:dioritegenv4": {
+    "textures": "gpv_stone_genv4",
+    "sound": "metal"
+  },
+"gpv:andesitegenv4": {
+    "textures": "gpv_stone_genv4",
+    "sound": "metal"
+  },
+"gpv:red_sandgenv4": {
+    "textures": "gpv_stone_genv4",
+    "sound": "metal"
+  },
+"gpv:oak_loggenv4": {
+    "textures": "gpv_stone_genv4",
+    "sound": "metal"
+  },
+"gpv:spruce_loggenv4": {
+    "textures": "gpv_stone_genv4",
+    "sound": "metal"
+  },
+"gpv:birch_loggenv4": {
+    "textures": "gpv_stone_genv4",
+    "sound": "metal"
+  },
+"gpv:jungle_loggenv4": {
+    "textures": "gpv_stone_genv4",
+    "sound": "metal"
+  },
+"gpv:acacia_loggenv4": {
+    "textures": "gpv_stone_genv4",
+    "sound": "metal"
+  },
+"gpv:dark_oak_loggenv4": {
+    "textures": "gpv_stone_genv4",
+    "sound": "metal"
+  },
+"gpv:spongegenv4": {
+    "textures": "gpv_stone_genv4",
+    "sound": "metal"
+  },
+"gpv:sandstonegenv4": {
+    "textures": "gpv_stone_genv4",
+    "sound": "metal"
+  },
+"gpv:white_woolgenv4": {
+    "textures": "gpv_stone_genv4",
+    "sound": "metal"
+  },
+"gpv:orange_woolgenv4": {
+    "textures": "gpv_stone_genv4",
+    "sound": "metal"
+  },
+"gpv:magenta_woolgenv4": {
+    "textures": "gpv_stone_genv4",
+    "sound": "metal"
+  },
+"gpv:light_blue_woolgenv4": {
+    "textures": "gpv_stone_genv4",
+    "sound": "metal"
+  },
+"gpv:yellow_woolgenv4": {
+    "textures": "gpv_stone_genv4",
+    "sound": "metal"
+  },
+"gpv:lime_woolgenv4": {
+    "textures": "gpv_stone_genv4",
+    "sound": "metal"
+  },
+"gpv:pink_woolgenv4": {
+    "textures": "gpv_stone_genv4",
+    "sound": "metal"
+  },
+"gpv:gray_woolgenv4": {
+    "textures": "gpv_stone_genv4",
+    "sound": "metal"
+  },
+"gpv:light_gray_woolgenv4": {
+    "textures": "gpv_stone_genv4",
+    "sound": "metal"
+  },
+"gpv:cyan_woolgenv4": {
+    "textures": "gpv_stone_genv4",
+    "sound": "metal"
+  },
+"gpv:purple_woolgenv4": {
+    "textures": "gpv_stone_genv4",
+    "sound": "metal"
+  },
+"gpv:blue_woolgenv4": {
+    "textures": "gpv_stone_genv4",
+    "sound": "metal"
+  },
+"gpv:brown_woolgenv4": {
+    "textures": "gpv_stone_genv4",
+    "sound": "metal"
+  },
+"gpv:green_woolgenv4": {
+    "textures": "gpv_stone_genv4",
+    "sound": "metal"
+  },
+"gpv:red_woolgenv4": {
+    "textures": "gpv_stone_genv4",
+    "sound": "metal"
+  },
+"gpv:black_woolgenv4": {
+    "textures": "gpv_stone_genv4",
+    "sound": "metal"
+  },
+"gpv:bricksgenv4": {
+    "textures": "gpv_stone_genv4",
+    "sound": "metal"
+  },
+"gpv:nether_wart_blockgenv4": {
+    "textures": "gpv_stone_genv4",
+    "sound": "metal"
+  },
+"gpv:shroomlightgenv4": {
+    "textures": "gpv_stone_genv4",
+    "sound": "metal"
+  },
+"gpv:honey_blockgenv4": {
+    "textures": "gpv_stone_genv4",
+    "sound": "metal"
+  },
+"gpv:honeycomb_blockgenv4": {
+    "textures": "gpv_stone_genv4",
+    "sound": "metal"
+  },
+"gpv:netherite_blockgenv4": {
+    "textures": "gpv_stone_genv4",
+    "sound": "metal"
+  },
+"gpv:ancient_debrisgenv4": {
+    "textures": "gpv_stone_genv4",
+    "sound": "metal"
+  },
+"gpv:blackstonegenv4": {
+    "textures": "gpv_stone_genv4",
+    "sound": "metal"
+  },
+"gpv:amethyst_blockgenv4": {
+    "textures": "gpv_stone_genv4",
+    "sound": "metal"
+  },
+"gpv:tuffgenv4": {
+    "textures": "gpv_stone_genv4",
+    "sound": "metal"
+  },
+"gpv:calcitegenv4": {
+    "textures": "gpv_stone_genv4",
+    "sound": "metal"
+  },
+"gpv:deepslategenv4": {
+    "textures": "gpv_stone_genv4",
+    "sound": "metal"
+  },
+
+  "format_version": [
+    1,
+    1,
+    0
+  ]
+}

@@ -1,0 +1,38 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:item": {
+		"description": {
+			"identifier": "gpv:bedrock_hoe",
+			"category": "equipment"
+		},
+		"components": {
+			"minecraft:creative_category": {
+				"parent": "itemGroup.name.hoe"
+			},
+			"minecraft:max_stack_size": 1,
+			"minecraft:hand_equipped": true,
+			"minecraft:durability": {
+				"max_durability": 900000
+			},
+			"minecraft:damage": 2,
+			"minecraft:enchantable": {
+				"value": 3,
+				"slot": "hoe"
+			},
+			"minecraft:icon": {
+				"texture": "bedrock_hoe"
+			},
+			"minecraft:display_name": {
+				"value": "Bedrock Hoe"
+			},
+			"minecraft:repairable": {
+				"repair_items": [
+					{
+						"items": ["minecraft:stick"],
+						"repair_amount": "context.other->q.remaining_durability + 0.05 * context.other->q.max_durability"
+					}
+				]
+			}
+		}
+	}
+}
